@@ -107,10 +107,10 @@ export default function App() {
                 hello@rupeshindustries.com
               </a>
               <a
-                href="tel:+919999999999"
+                href="tel:+917057907579"
                 className="inline-flex items-center justify-center rounded-full border border-white/20 bg-white/5 px-6 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
               >
-                +91 99999 99999
+                +91 70579 07579
               </a>
             </div>
           </div>
